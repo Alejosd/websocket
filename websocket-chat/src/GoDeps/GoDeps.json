@@ -1,0 +1,6 @@
+{
+	"ImportPath": ".",
+	"GoVersion": "go1.7.1",
+	"GodepVersion": "v74",
+	"Deps": ["golang.org/x/net/websocket"]
+}
